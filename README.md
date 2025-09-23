@@ -1,80 +1,66 @@
-<!-- Cabeçalho -->
-<h1 align="center">Olá, eu sou o Vitor 👋</h1>
-<h3 align="center">Desenvolvedor Júnior | Entusiasta em Tecnologia | Sempre Aprendendo 💻</h3>
-
----
-
-<!-- GIF de boas-vindas -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="300"/>
-</p>
+<h1 align="center">Olá, eu sou o Vitor Camprubi 👋</h1>
+<h3 align="center">Desenvolvedor Backend Java | Apaixonado por APIs e Sistemas Escaláveis</h3>
 
 ---
 
 ## 💼 Sobre mim
-Sou formado em Gestão de TI e estou em transição para a área de desenvolvimento. Busco aplicar boas práticas e aprender constantemente em **projetos desafiadores**.
+Sou formado em **Gestão de TI** e estou focado na carreira de **desenvolvedor backend**, utilizando **Java e frameworks modernos** para construir sistemas robustos e escaláveis.  
+Busco projetos desafiadores onde possa aplicar boas práticas de desenvolvimento, design patterns e lógica de programação avançada.
 
-- 🔹 Tecnologias: **Java, HTML, CSS, JavaScript**
-- 🔹 Aprendendo: **Spring Boot, React, APIs REST**
-- 🔹 Interesses: **Desenvolvimento web, backend, automação**
+- 🔹 **Linguagens:** Java, SQL  
+- 🔹 **Frameworks:** Spring Boot, Hibernate  
+- 🔹 **Banco de Dados:** MySQL, PostgreSQL  
+- 🔹 **Ferramentas:** Git, Maven, Postman, Docker  
+- 🔹 **Aprendendo:** Microservices, Cloud (AWS, Azure)  
 
 ---
 
 ## 🚀 Projetos em destaque
 
-<table>
-<tr>
-<td align="center">
-<a href="https://github.com/VitorCamprubi/site-psicologa-mvp">
-<img src="https://via.placeholder.com/150" width="150" alt="Landing Page Psicóloga"/>
-<p>Landing Page Psicóloga</p>
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/VitorCamprubi/nome-do-projeto">
-<img src="https://via.placeholder.com/150" width="150" alt="Projeto Java"/>
-<p>Projeto Java</p>
-</a>
-</td>
-</tr>
-</table>
+### [Sistema de Gestão Acadêmica](https://github.com/VitorCamprubi/nome-do-projeto)
+- Backend completo em **Java + Spring Boot**
+- Implementação de **REST APIs** com CRUD, autenticação e autorização
+- Conexão com **MySQL** e uso de JPA/Hibernate
+- Testes unitários e integração com **JUnit**
 
-> 💡 Dica: Troque as imagens pelos screenshots reais dos seus projetos ou GIFs demonstrando a aplicação.
+### [Landing Page Psicóloga](https://github.com/VitorCamprubi/site-psicologa-mvp)
+- Projeto frontend simples com HTML e CSS, parte do portfólio
+- Demonstra atenção a layout, responsividade e boas práticas de código
+
+> 💡 Dica: adicione screenshots ou GIFs mostrando APIs em funcionamento ou endpoints testados no Postman.
 
 ---
 
 ## 🛠️ Minhas Habilidades
 
-| Backend       | Frontend       | Ferramentas     |
-|---------------|----------------|----------------|
-| Java          | HTML5           | Git/GitHub     |
-| Spring Boot   | CSS3            | VS Code        |
-| REST APIs     | JavaScript      | Postman        |
+| Backend         | Banco de Dados   | Ferramentas     |
+|-----------------|----------------|----------------|
+| Java            | MySQL           | Git/GitHub     |
+| Spring Boot     | PostgreSQL      | Docker         |
+| Hibernate/JPA   | SQL             | Postman        |
+| REST API        | -               | Maven          |
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
+## 📊 Estatísticas do GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VitorCamprubi&show_icons=true&theme=radical" />
 </p>
 
 ---
 
-## 📫 Como me encontrar
-
-- LinkedIn: [linkedin.com/in/vitor-camprubi](https://linkedin.com/in/vitor-camprubi)
-- Email: seuemail@exemplo.com
-- Portfólio: [vitorcamprubi.com](https://vitorcamprubi.com) *(opcional)*
+## 📫 Contato
+- LinkedIn: [linkedin.com/in/vitor-camprubi](https://linkedin.com/in/vitor-camprubi)  
+- Email: zevitorcamprubi@gmail.com  
+- Portfólio: [vitorcamprubi.com](https://vitorcamprubi.com) *(opcional)*  
 
 ---
 
-<p align="center">
-  Feito com ❤️ por Vitor Camprubi
-</p>
+<p align="center">Feito com ❤️ por Vitor Camprubi</p>
