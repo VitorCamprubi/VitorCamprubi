@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o Vitor Camprubi 👋</h1>
-<h3 align="center">Desenvolvedor Backend Java | Apaixonado por APIs e Sistemas Escaláveis</h3>
+<h3 align="center">Desenvolvedor Back-end Java | Apaixonado por APIs e Sistemas Escaláveis</h3>
 
 ---
 
