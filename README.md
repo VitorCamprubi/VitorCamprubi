@@ -17,7 +17,7 @@ Busco projetos desafiadores onde possa aplicar boas práticas de desenvolvimento
 
 ## 🚀 Projetos em destaque
 
-### [Sistema de Gestão Acadêmica](https://github.com/VitorCamprubi/nome-do-projeto)
+### [Sistema de Gestão Acadêmica](https://github.com/VitorCamprubi/sgtc-web)
 - Backend completo em **Java + Spring Boot**
 - Implementação de **REST APIs** com CRUD, autenticação e autorização
 - Conexão com **MySQL** e uso de JPA/Hibernate
