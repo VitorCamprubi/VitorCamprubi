@@ -59,7 +59,7 @@ Busco projetos desafiadores onde possa aplicar boas práticas de desenvolvimento
 ## 📫 Contato
 - LinkedIn: [linkedin.com/in/vitor-camprubi](https://linkedin.com/in/vitor-camprubi)  
 - Email: zevitorcamprubi@gmail.com  
-- Portfólio: [vitorcamprubi.com](https://vitorcamprubi.com) *(opcional)*  
+- Portfólio: [vitorcamprubi.com](https://vitorcamprubi.com)   
 
 ---
 
