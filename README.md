@@ -17,17 +17,20 @@ Busco projetos desafiadores onde possa aplicar boas práticas de desenvolvimento
 
 ## 🚀 Projetos em destaque
 
-### [Sistema de Gestão Acadêmica](https://github.com/VitorCamprubi/sgtc)
-- Backend completo em **Java + Spring Boot**
-- Implementação de **REST APIs** com CRUD, autenticação e autorização
-- Conexão com **MySQL** e uso de JPA/Hibernate
-- Testes unitários e integração com **JUnit**
+### [SGTC – Sistema de Gestão de Trabalhos Científicos](https://github.com/VitorCamprubi/sgtc)
+- API REST em Java + Spring Boot para gerenciar TCCs (grupos, alunos, orientadores, documentos).
+- Uso de Spring Data JPA, Hibernate e MySQL.
+- Regras de negócio para fluxo do Trabalho de Graduação (envio de versões, orientações, etc.).
 
-### [Landing Page Psicóloga](https://github.com/VitorCamprubi/site-psicologa-mvp)
-- Projeto frontend simples com HTML e CSS, parte do portfólio
-- Demonstra atenção a layout, responsividade e boas práticas de código
+### [OMS-Lite – Order Management System](https://github.com/VitorCamprubi/OMS-Lite)
+- Backend em Java + Spring Boot para gestão de pedidos.
+- Modelagem com Customer, Product, Order, OrderItem e OrderStatus.
+- Regras de negócio: baixa de estoque automática, cálculo de total do pedido e status confirmado/cancelado.
 
-> 💡 Dica: adicione screenshots ou GIFs mostrando APIs em funcionamento ou endpoints testados no Postman.
+### [Site Psicóloga – Landing Page](https://github.com/VitorCamprubi/site-psicologa-mvp)
+- Landing page responsiva em HTML, CSS e JavaScript.
+- Projeto real para cliente, focado em conversão (WhatsApp) e layout limpo.
+
 
 ---
 
