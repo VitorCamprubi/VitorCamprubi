@@ -4,7 +4,7 @@ Desenvolvedor backend Java.
 
 Foco em APIs REST com Spring Boot, persistência com JPA e bancos relacionais. Atualmente aprofundando em testes automatizados, mensageria e padrões de consistência em sistemas distribuídos.
 
-📍 Tatuí, SP — disponível para remoto, híbrido (SP capital) e CLT/PJ  
+📍 Sorocaba, SP — disponível para remoto, híbrido (SP capital) e CLT/PJ  
 🎓 Tecnólogo em Gestão da Tecnologia da Informação  
 🗣️ Inglês: leitura e escrita técnica (básico)
 
