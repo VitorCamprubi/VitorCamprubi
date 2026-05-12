@@ -1,6 +1,6 @@
 # Vitor Camprubi
 
-Desenvolvedor backend Java em transição para a primeira vaga.
+Desenvolvedor backend Java.
 
 Foco em APIs REST com Spring Boot, persistência com JPA e bancos relacionais. Atualmente aprofundando em testes automatizados, mensageria e padrões de consistência em sistemas distribuídos.
 
